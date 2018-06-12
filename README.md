@@ -84,5 +84,5 @@ check ![PayTofund function screenshot](https://github.com/GweiTech/GWEI-NETWORK-
     }
 ]
 ``` 
-check ![GetTokens function screenshot](https://github.com/GweiTech/GWEI-NETWORK-SC-ABI-/blob/master/GetYourTokens.jpg
+check ![GetTokens function screenshot](https://github.com/GweiTech/GWEI-NETWORK-SC-ABI-/blob/master/GetYourTokens.jpg)
 
