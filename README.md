@@ -1,5 +1,5 @@
 
-## how to contral smart contract with MEW  ( Withdraw Tokens and Eth etc.  
+## How to Withdraw Tokens and Eth with MEW
 
 #### 1. Open a wallet page that supports interactions with the contract, take mycrypto for example, open
  https://www.mycrypto.com/contracts/interact  
