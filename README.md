@@ -23,7 +23,7 @@
     }
 ]
 ``` 
-check ![Withdraw function screenshot](https://github.com/GweiTech/GWEI-NETWORK-FUNDSC-ABI/blob/master/Withdraw.jpg)
+check ![Withdraw function screenshot](https://github.com/GweiTech/GWEI-NETWORK-SC-ABI-/blob/master/Withdraw.jpg)
 
 
 #### Pay ETH to fund (For creator)
@@ -59,7 +59,7 @@ check ![Withdraw function screenshot](https://github.com/GweiTech/GWEI-NETWORK-F
 
 ``` 
 
-check ![PayTofund function screenshot](https://github.com/GweiTech/GWEI-NETWORK-FUNDSC-ABI/blob/master/PayToFound.jpg)
+check ![PayTofund function screenshot](https://github.com/GweiTech/GWEI-NETWORK-SC-ABI-/blob/master/PayToFound.jpg)
 
 #### Get your tokens (For contributor, the token has been confirmed)
 ``` 
@@ -84,5 +84,5 @@ check ![PayTofund function screenshot](https://github.com/GweiTech/GWEI-NETWORK-
     }
 ]
 ``` 
-check ![GetTokens function screenshot](https://github.com/GweiTech/GWEI-NETWORK-FUNDSC-ABI/blob/master/GetYourTokens.jpg)
+check ![GetTokens function screenshot](https://github.com/GweiTech/GWEI-NETWORK-SC-ABI-/blob/master/GetYourTokens.jpg
 
