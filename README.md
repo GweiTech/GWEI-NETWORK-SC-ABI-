@@ -86,3 +86,119 @@ check ![PayTofund function screenshot](https://github.com/GweiTech/GWEI-NETWORK-
 ``` 
 check ![GetTokens function screenshot](https://github.com/GweiTech/GWEI-NETWORK-SC-ABI-/blob/master/GetYourTokens.jpg)
 
+
+#### Deposit (For contributor)
+
+[
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "deposit",
+      "outputs": [],
+      "payable": true,
+      "stateMutability": "payable",
+      "type": "function"
+    }
+]
+
+check ![GetTokens function screenshot](https://github.com/GweiTech/How-to-Withdraw-Tokens-and-Eth-with-MEW/blob/master/deposit.jpg)
+
+
+
+
+
+#### Confirm tokens (For creator, the fund has paid)
+
+[
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "tokenAddress",
+          "type": "address"
+        }
+      ],
+      "name": "confirmTokens",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+]
+check ![GetTokens function screenshot](https://github.com/GweiTech/How-to-Withdraw-Tokens-and-Eth-with-MEW/blob/master/ConfirmTokens.jpg)
+
+#### Transfer tokens to all contributors (For creator, the token has been confirmed)
+
+[
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "tokenAddress",
+          "type": "address"
+        }
+      ],
+      "name": "transferTokensToAll",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+]
+
+check ![GetTokens function screenshot](https://github.com/GweiTech/How-to-Withdraw-Tokens-and-Eth-with-MEW/blob/master/TransferTokensToAllContributors.jpg)
+
+
+
+#### Get pool status (For creator)
+
+[
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "getPoolstatus",
+      "outputs": [
+        {
+          "name": "",
+          "type": "uint8"
+        },
+        {
+          "name": "",
+          "type": "uint256"
+        },
+        {
+          "name": "",
+          "type": "uint256"
+        },
+        {
+          "name": "",
+          "type": "uint256"
+        },
+        {
+          "name": "",
+          "type": "address"
+        },
+        {
+          "name": "",
+          "type": "address"
+        },
+        {
+          "name": "",
+          "type": "address[]"
+        },
+        {
+          "name": "",
+          "type": "uint256[]"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    }
+]
+
+check ![GetTokens function screenshot](https://github.com/GweiTech/How-to-Withdraw-Tokens-and-Eth-with-MEW/blob/master/GetPoolStatus1.jpg)
+
+
+
+
